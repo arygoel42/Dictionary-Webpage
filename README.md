@@ -6,6 +6,9 @@ Languages:
   Javascript
   TypeScript 
   HTML
+
+
+  
 Libraries: 
   React JS frontend 
   Node JS backend 
